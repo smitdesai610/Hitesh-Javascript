@@ -14,6 +14,29 @@ let valueInNumber = Number(score);
 let isLogin = "";
 let booleanisLogin = Boolean(isLogin);
 
-console.log(booleanisLogin);
+// console.log(booleanisLogin);
 
 // ***************************** Oprations *****************************
+
+let value = 503;
+let negValue = -value;
+
+// console.log(negValue);
+
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(2 * 2);
+// console.log(2 ** 3);
+// console.log(2 % 5);
+// console.log(2 / 2);
+
+let gameCounter = 100;
+
+// console.log(null > 0);
+// console.log(null < 0);
+// console.log(null = 0);
+// console.log(null <= 0);
+// console.log(null >= 0);
+
+console.log("2" == 2);
+console.log("2" === 2);

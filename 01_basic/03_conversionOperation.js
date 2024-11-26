@@ -15,3 +15,5 @@ let isLogin = "";
 let booleanisLogin = Boolean(isLogin);
 
 console.log(booleanisLogin);
+
+// ***************************** Oprations *****************************

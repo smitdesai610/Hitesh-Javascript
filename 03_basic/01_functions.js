@@ -67,4 +67,11 @@ function returnSecoundValue(getArray) {
   return getArray[5];
 }
 
-console.log(returnSecoundValue(myNewArray));
+// console.log(returnSecoundValue(myNewArray));
+
+const movie = ["Jumanji", 1995];
+function movieInfo(title, year) {
+  // return console.log(`The  movie ${title} was released in ${year}`);
+}
+// movieInfo(...movie);
+// movieInfo(movie);
